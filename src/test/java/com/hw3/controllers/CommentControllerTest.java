@@ -68,22 +68,26 @@ public class CommentControllerTest {
     @Test
     void testCommentLengthExactlyThree() {
         ResponseEntity<String> response = controller.submitComment("abc", null);
+        assertEquals(400, response.getStatusCodeValue());
         assertEquals("Comment length must be between 3 and 300 characters.", response.getBody());
     }
     @Test
     void testCommentLengthExactlyThreeHundred() {
         String text = "a".repeat(300); // 300 characters
         ResponseEntity<String> response = controller.submitComment(text, null);
+        assertEquals(400, response.getStatusCodeValue());
         assertEquals("Comment length must be between 3 and 300 characters.", response.getBody());
     }
     @Test
     void testSecurityRatingExactlyOne() {
         ResponseEntity<String> response = controller.submitComment("Valid comment", 1);
+        assertEquals(400, response.getStatusCodeValue());
         assertEquals("Security rating must be between 1 and 10 if specified.", response.getBody());
     }
     @Test
     void testSecurityRatingExactlyTen() {
         ResponseEntity<String> response = controller.submitComment("Valid comment", 10);
+        assertEquals(400, response.getStatusCodeValue());
         assertEquals("Security rating must be between 1 and 10 if specified.", response.getBody());
     }
 }
