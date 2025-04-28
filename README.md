@@ -6,6 +6,21 @@
 
 ![image](https://github.com/user-attachments/assets/aea28ec0-58b5-41ab-8661-da7fc7a37048)
 
+The Controller:
+![image](https://github.com/user-attachments/assets/b5df7e34-b3db-40e4-aa54-c0d2579ec1fb)
+
+First 4 tests:
+![image](https://github.com/user-attachments/assets/8d8c36d0-3538-4d69-9145-ae5bc6adbc2c)
+
+Second 4 tests:
+
+![image](https://github.com/user-attachments/assets/ad0e0bf6-9665-4272-9add-2bfdfacd185c)
+
+Third 4 tests 'kill the mutants':
+![image](https://github.com/user-attachments/assets/b3665cfc-5dea-4f83-9cf6-3f7f03707eb4)
+
+
+
 
 
 
