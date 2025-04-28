@@ -21,7 +21,7 @@ Third 4 tests 'kill the mutants':
 
 Html to post data once runing: 
 
-<!DOCTYPE html>
+//**<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -35,7 +35,7 @@ Html to post data once runing:
         <button type="submit">Submit Comment</button>
     </form>
 </body>
-</html>
+</html>**//
 
 Sample looks:
 ![image](https://github.com/user-attachments/assets/ab30d154-21ec-4621-99c5-cb10f05a75ce)
