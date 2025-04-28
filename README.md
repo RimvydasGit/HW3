@@ -19,16 +19,20 @@ Second 4 tests:
 Third 4 tests 'kill the mutants':
 ![image](https://github.com/user-attachments/assets/b3665cfc-5dea-4f83-9cf6-3f7f03707eb4)
 
-Html to post data once runing: 
+
 
 Sample looks:
 ![image](https://github.com/user-attachments/assets/ab30d154-21ec-4621-99c5-cb10f05a75ce)
+
+Sample looks 2:
 
 ![image](https://github.com/user-attachments/assets/806a50f3-c0ae-4362-b411-d82cc288706c)
 
 
 Sample response:
 ![image](https://github.com/user-attachments/assets/02903335-4c36-499b-90e1-850b0cee4da2)
+
+Sample response 2:
 
 ![image](https://github.com/user-attachments/assets/1c216519-6147-4b16-84ee-64e895cde19e)
 
